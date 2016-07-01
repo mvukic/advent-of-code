@@ -1,4 +1,4 @@
-# advent-of-code
+# [advent-of-code](http://adventofcode.com/)
 Advent of code solutions:
 
 - [x] 1 (python3)
