@@ -10,8 +10,8 @@ Advent of code solutions:
 - [ ] 7
 - [x] 8 (python3)
 - [ ] 9
-- [ ] 10
-- [ ] 11
+- [x] 10 (python3)
+- [x] 11 (python3) NOT OPTIMIZED
 - [ ] 12
 - [ ] 13
 - [ ] 14
