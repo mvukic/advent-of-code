@@ -12,11 +12,11 @@ Advent of code solutions:
 - [ ] 9
 - [x] 10 (python3)
 - [x] 11 (python3) NOT OPTIMIZED
-- [x] 12
+- [x] 12 (python3)
 - [ ] 13
 - [ ] 14
 - [ ] 15
-- [x] 16
+- [x] 16 (python3)
 - [ ] 17
 - [ ] 18
 - [ ] 19
