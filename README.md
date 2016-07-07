@@ -17,7 +17,7 @@ Advent of code solutions:
 - [ ] 14
 - [ ] 15
 - [x] 16 (python3)
-- [ ] 17
+- [x] 17
 - [ ] 18
 - [ ] 19
 - [ ] 20
