@@ -20,7 +20,7 @@ Advent of code solutions:
 - [x] 17 (python3)
 - [ ] 18
 - [ ] 19
-- [ ] 20
+- [x] 20 (c)
 - [ ] 21
 - [ ] 22
 - [ ] 23
