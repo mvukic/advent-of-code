@@ -23,6 +23,6 @@ Advent of code solutions:
 - [x] 20 (c)
 - [ ] 21
 - [ ] 22
-- [ ] 23
+- [x] 23 (java 8)
 - [ ] 24
 - [ ] 25
