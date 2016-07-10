@@ -33,4 +33,7 @@ with open("input.txt") as input:
         print("{} contains unwanted substrings: {}".format(line,contains_not_wanted))
         if num_of_vowels >=3 and not contains_not_wanted and len(repeatable_letters)>0:
             number_of_nice_strings +=1
+            print("{} is nice.".format(line))
+        else:
+            print("{} is bad.".format(line))
 print("Number of good strings is : {}".format(number_of_nice_strings))
