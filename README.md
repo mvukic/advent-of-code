@@ -14,7 +14,7 @@ Advent of code solutions:
 - [x] 11 (python3) NOT OPTIMIZED
 - [x] 12 (python3)
 - [x] 13 (python3)
-- [ ] 14
+- [x] 14 (python3)
 - [ ] 15
 - [x] 16 (python3)
 - [x] 17 (python3)
