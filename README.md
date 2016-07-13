@@ -1,10 +1,10 @@
 # [advent-of-code](http://adventofcode.com/)
 Advent of code solutions:
 
-- [x] 1 (python3)
-- [x] 2 (python3)
-- [x] 3 (python3)
-- [x] 4 (python3)
+- [x] 1 (python3,rust)
+- [x] 2 (python3,rust)
+- [x] 3 (python3,rust)
+- [x] 4 (python3,rust)
 - [x] 5 (python3)
 - [x] 6 (python3)
 - [ ] 7
@@ -15,7 +15,7 @@ Advent of code solutions:
 - [x] 12 (python3)
 - [x] 13 (python3)
 - [x] 14 (python3)
-- [ ] 15
+- [ ] 15 (part1 working)
 - [x] 16 (python3)
 - [x] 17 (python3)
 - [ ] 18
@@ -25,4 +25,4 @@ Advent of code solutions:
 - [ ] 22
 - [x] 23 (java 8)
 - [ ] 24
-- [ ] 25
+- [ ] 25 (part1 working)
