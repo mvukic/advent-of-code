@@ -23,7 +23,7 @@ def tally(combo):
     calories = total['calories']
     total['calories'] = 1
     # part 2
-    # if calories != 500: total['calories'] = 0
+    if calories != 500: total['calories'] = 0
     return functools.reduce(operator.mul, total.values())
 
 def partition(N, d):

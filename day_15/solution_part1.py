@@ -30,6 +30,8 @@ def Main():
 		tex= comb[0]*a["texture"]   +comb[1]*b["texture"]   +comb[2]*c["texture"]   +comb[3]*d["texture"]
 		if not (cap < 0 or dur < 0 or fla<0 or tex<0):
 			result[comb] = cap*dur*fla*tex
+			if result[comb] == 11171160:
+				print (comb)
 	sort = sorted(result,key=result.get,reverse=True)
 	print("{} gives best score of {}".format(sort[0],result[sort[0]]))
 

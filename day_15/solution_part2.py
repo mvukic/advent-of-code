@@ -42,7 +42,7 @@ def Main():
 		r = cap*dur*fla*tex
 		if r != 0 and cal == 500:
 			result[comb] = r
-			# print("{} score: {} cal: {}".format(comb,r,cal))  
+			 print("{} score: {} cal: {}".format(comb,r,cal))  
 	sort = sorted(result,key=result.get,reverse=True)
 	print("{} gives best score of {}".format(sort[0],result[sort[0]]))
 
