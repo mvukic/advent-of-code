@@ -1,10 +1,10 @@
 # [advent-of-code](http://adventofcode.com/)
 Advent of code solutions:
 
-- [x] 1 (python3)
-- [x] 2 (python3)
-- [x] 3 (python3)
-- [x] 4 (python3)
+- [x] 1 (python3,rust)
+- [x] 2 (python3,rust)
+- [x] 3 (python3,rust)
+- [x] 4 (python3,rust)
 - [x] 5 (python3)
 - [x] 6 (python3)
 - [ ] 7
