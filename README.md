@@ -15,7 +15,7 @@ Advent of code solutions:
 - [x] 12 (python3)
 - [x] 13 (python3)
 - [x] 14 (python3)
-- [ ] 15
+- [ ] 15 (part1 working)
 - [x] 16 (python3)
 - [x] 17 (python3)
 - [ ] 18
@@ -25,4 +25,4 @@ Advent of code solutions:
 - [ ] 22
 - [x] 23 (java 8)
 - [ ] 24
-- [ ] 25
+- [ ] 25 (part1 working)
